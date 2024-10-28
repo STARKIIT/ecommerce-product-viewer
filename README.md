@@ -200,12 +200,7 @@ Common issues and solutions:
    - Delete `node_modules` and run `npm install`
    - Verify Node.js version matches requirements
 
-## Support
 
-For support, please:
-1. Check existing [GitHub Issues](https://github.com/your-username/ecommerce-product-viewer/issues)
-2. Create a new issue
-3. Reach out via email: your.email@example.com
 
 ## License
 
@@ -213,4 +208,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ using React and Next.js
+
